@@ -1,0 +1,14 @@
+e:\Documents\Visual Studio 2013\Projects\DiceRoller\DiceRoller\bin\Release\DiceRoller.exe.config
+e:\Documents\Visual Studio 2013\Projects\DiceRoller\DiceRoller\bin\Release\DiceRoller.exe
+e:\Documents\Visual Studio 2013\Projects\DiceRoller\DiceRoller\bin\Release\DiceRoller.pdb
+e:\Documents\Visual Studio 2013\Projects\DiceRoller\DiceRoller\bin\Release\DiceRoller.xml
+e:\Documents\Visual Studio 2013\Projects\DiceRoller\DiceRoller\obj\Release\MainWindow.baml
+e:\Documents\Visual Studio 2013\Projects\DiceRoller\DiceRoller\obj\Release\MainWindow.g.vb
+e:\Documents\Visual Studio 2013\Projects\DiceRoller\DiceRoller\obj\Release\Application.g.vb
+e:\Documents\Visual Studio 2013\Projects\DiceRoller\DiceRoller\obj\Release\DiceRoller_MarkupCompile.cache
+e:\Documents\Visual Studio 2013\Projects\DiceRoller\DiceRoller\obj\Release\DiceRoller.g.resources
+e:\Documents\Visual Studio 2013\Projects\DiceRoller\DiceRoller\obj\Release\DiceRoller.Resources.resources
+e:\Documents\Visual Studio 2013\Projects\DiceRoller\DiceRoller\obj\Release\DiceRoller.vbproj.GenerateResource.Cache
+e:\Documents\Visual Studio 2013\Projects\DiceRoller\DiceRoller\obj\Release\DiceRoller.exe
+e:\Documents\Visual Studio 2013\Projects\DiceRoller\DiceRoller\obj\Release\DiceRoller.xml
+e:\Documents\Visual Studio 2013\Projects\DiceRoller\DiceRoller\obj\Release\DiceRoller.pdb

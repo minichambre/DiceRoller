@@ -1,0 +1,28 @@
+C:\Users\Daniel\AppData\Local\Temporary Projects\DiceRoller\bin\Debug\DiceRoller.exe.config
+C:\Users\Daniel\AppData\Local\Temporary Projects\DiceRoller\obj\Debug\MainWindow.baml
+C:\Users\Daniel\AppData\Local\Temporary Projects\DiceRoller\obj\Debug\MainWindow.g.vb
+C:\Users\Daniel\AppData\Local\Temporary Projects\DiceRoller\obj\Debug\Application.g.vb
+C:\Users\Daniel\AppData\Local\Temporary Projects\DiceRoller\obj\Debug\DiceRoller_MarkupCompile.cache
+C:\Users\Daniel\AppData\Local\Temporary Projects\DiceRoller\obj\Debug\DiceRoller.g.resources
+C:\Users\Daniel\AppData\Local\Temporary Projects\DiceRoller\obj\Debug\DiceRoller.Resources.resources
+C:\Users\Daniel\AppData\Local\Temporary Projects\DiceRoller\obj\Debug\DiceRoller.vbproj.GenerateResource.Cache
+C:\Users\Daniel\AppData\Local\Temporary Projects\DiceRoller\bin\Debug\DiceRoller.exe
+C:\Users\Daniel\AppData\Local\Temporary Projects\DiceRoller\bin\Debug\DiceRoller.pdb
+C:\Users\Daniel\AppData\Local\Temporary Projects\DiceRoller\bin\Debug\DiceRoller.xml
+C:\Users\Daniel\AppData\Local\Temporary Projects\DiceRoller\obj\Debug\DiceRoller.exe
+C:\Users\Daniel\AppData\Local\Temporary Projects\DiceRoller\obj\Debug\DiceRoller.xml
+C:\Users\Daniel\AppData\Local\Temporary Projects\DiceRoller\obj\Debug\DiceRoller.pdb
+e:\Documents\Visual Studio 2013\Projects\DiceRoller\DiceRoller\bin\Debug\DiceRoller.exe.config
+e:\Documents\Visual Studio 2013\Projects\DiceRoller\DiceRoller\obj\Debug\DiceRoller.exe
+e:\Documents\Visual Studio 2013\Projects\DiceRoller\DiceRoller\obj\Debug\DiceRoller.xml
+e:\Documents\Visual Studio 2013\Projects\DiceRoller\DiceRoller\obj\Debug\DiceRoller.pdb
+e:\Documents\Visual Studio 2013\Projects\DiceRoller\DiceRoller\bin\Debug\DiceRoller.exe
+e:\Documents\Visual Studio 2013\Projects\DiceRoller\DiceRoller\bin\Debug\DiceRoller.pdb
+e:\Documents\Visual Studio 2013\Projects\DiceRoller\DiceRoller\bin\Debug\DiceRoller.xml
+e:\Documents\Visual Studio 2013\Projects\DiceRoller\DiceRoller\obj\Debug\MainWindow.baml
+e:\Documents\Visual Studio 2013\Projects\DiceRoller\DiceRoller\obj\Debug\MainWindow.g.vb
+e:\Documents\Visual Studio 2013\Projects\DiceRoller\DiceRoller\obj\Debug\Application.g.vb
+e:\Documents\Visual Studio 2013\Projects\DiceRoller\DiceRoller\obj\Debug\DiceRoller_MarkupCompile.cache
+e:\Documents\Visual Studio 2013\Projects\DiceRoller\DiceRoller\obj\Debug\DiceRoller.g.resources
+e:\Documents\Visual Studio 2013\Projects\DiceRoller\DiceRoller\obj\Debug\DiceRoller.Resources.resources
+e:\Documents\Visual Studio 2013\Projects\DiceRoller\DiceRoller\obj\Debug\DiceRoller.vbproj.GenerateResource.Cache
